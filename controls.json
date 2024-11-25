@@ -1,0 +1,9 @@
+{
+    "rotate": "w",
+    "down": "s",
+    "left": "a",
+    "right": "d",
+    "boss_key": "b",
+    "pause": "p",
+    "cheat_code": "u"
+}
